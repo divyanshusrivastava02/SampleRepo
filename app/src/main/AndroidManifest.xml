@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.batch4">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/home"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/owntheme">
+        <activity android:name=".MainActivity">
+
+        </activity>
+        <activity android:name=".Activty2">
+
+        </activity>
+
+        <activity android:name=".WidgetsExample">
+
+        </activity>
+        <activity android:name=".listview.exmp.Listview1">
+
+        </activity>
+        <activity android:name=".listview.exmp.Listview2">
+
+        </activity>
+        <activity android:name=".listview.exmp.ListViewCustom">
+
+        </activity>
+        <activity android:name=".DatePickerExample">
+
+        </activity>
+        <activity android:name=".TimePickerExample">
+
+        </activity>
+
+        <activity android:name=".intents.ImplicitIntentExample">
+
+        </activity>
+
+        <activity android:name=".intents.ExplicitIntent">
+
+        </activity>
+        <activity android:name=".intents.SecondActivity"></activity>
+        <activity android:name=".Menu.OptionMenuExample">
+
+        </activity>
+        <activity android:name=".Menu.ContextMenuExample">
+
+        </activity>
+        <activity android:name=".Menu.PopupMenuExample">
+
+        </activity>
+        <activity android:name=".Fragments.FragmentLayout">
+
+        </activity>
+        <activity android:name=".Fragments.DetailsActivity"></activity>
+        <activity android:name=".sqlite.AndroidSqliteActivity"> <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+
+        </activity>
+    </application>
+
+</manifest>

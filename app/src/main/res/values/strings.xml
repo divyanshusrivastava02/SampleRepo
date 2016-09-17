@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Batch4</string>
+    <string name="submit">SUBMIT</string>
+    <string name="username">Please enter user name</string>
+    <string name="password">Please enter Password</string>
+
+    <string-array name="spinnerval">
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+
+        <item>Digit Mag</item>
+        <item>Sports Mag</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Space technology</item>
+    </string-array>
+</resources>
